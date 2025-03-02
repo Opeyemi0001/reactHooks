@@ -4,6 +4,7 @@ import UseStatehook from './components/UseStatehook';
 import UseEffecthook from './components/UseEffecthook';
 import UesRefHook from './components/UesRefHook';
 import UseMemohook from './components/useMemohook';
+import UseCallbackhook from './components/UseCallbackhook';
 
 function App() {
  
@@ -12,7 +13,8 @@ function App() {
     <>
    {/* <UseStatehook /> */}
    {/* <UseEffecthook /> */}
-   <UseMemohook />
+   {/* <UseMemohook /> */}
+   <UseCallbackhook />
    {/* <UesRefHook /> */}
 
     </>
