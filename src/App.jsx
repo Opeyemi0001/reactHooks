@@ -8,6 +8,7 @@ import UseCallbackhook from './components/UseCallbackhook';
 import Profile from './components/datacomponent/Profile';
 import Footer from './components/datacomponent/Footer';
 import UseReducerhook from './components/UseReducerhook';
+import UseLayoutEffect from './components/UseLayoutEffect';
 
 function App() {
  
@@ -20,7 +21,8 @@ function App() {
    {/* <UseCallbackhook /> */}
    {/* <Profile /> */}
    {/* <Footer /> */}
-   <UseReducerhook />
+   {/* <UseReducerhook /> */}
+   <UseLayoutEffect />
    {/* <UesRefHook /> */}
 
     </>
