@@ -7,6 +7,7 @@ import UseMemohook from './components/useMemohook';
 import UseCallbackhook from './components/UseCallbackhook';
 import Profile from './components/datacomponent/Profile';
 import Footer from './components/datacomponent/Footer';
+import UseReducerhook from './components/UseReducerhook';
 
 function App() {
  
@@ -17,8 +18,9 @@ function App() {
    {/* <UseEffecthook /> */}
    {/* <UseMemohook /> */}
    {/* <UseCallbackhook /> */}
-   <Profile />
-   <Footer />
+   {/* <Profile /> */}
+   {/* <Footer /> */}
+   <UseReducerhook />
    {/* <UesRefHook /> */}
 
     </>
